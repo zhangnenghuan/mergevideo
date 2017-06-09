@@ -1,0 +1,2 @@
+LIBRARY CPPLibraryTest
+EXPORTS MergeVideoSpecialEffectInterface
